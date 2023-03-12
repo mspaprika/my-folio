@@ -68,10 +68,11 @@ h3 {
 }
 
 .logo {
-    width: 50dvw;
+    width: 5dvw;
     position: relative;
     z-index: 1;
     font-size: 20dvh;
+    margin-left: 60dvw;
    
 }
 
